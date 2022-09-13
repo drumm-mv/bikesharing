@@ -3,7 +3,7 @@ Using Tableau to build visualizations to tell the story of data.
 
 ## Overview:
 
-Click here [NYC Citibike Analysis](https://public.tableau.com/shared/5JRN2T7XY?:display_count=n&:origin=viz_share_link/) to reach the tableau story for this analysis.
+Click here [NYC Citibike Analysis](https://public.tableau.com/shared/5JRN2T7XY?:display_count=n&:origin=viz_share_link) to reach the tableau story for this analysis.
 
 ## Results:
 
