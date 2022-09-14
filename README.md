@@ -21,13 +21,13 @@ The "Trips by Gender" heatmap shows that the majority of users are identified as
 
 ![image_name](/Resources/Story_page4.png)
 
-The "User Trips by Gender by Weekday" heatmap reiterates the percentage of "male" riders, but also shows an increased percentage of "unknown" gender among non-subscribed customers.
+The "User Trips by Gender by Weekday" heatmap reiterates the percentage of "male" riders, but also shows an nearly even use by all genders among non-subscribed customers.
 
 ![image_name](/Resources/Story_page5.png)
 
 
 
 ## Summary:
-The users of bikes appears to be disproportionately male and this usage appears to be during work commute.
+The subscribers appear to be disproportionately male and this usage appears to be primarily during work commute.
 
 Two additional visualizations that I would perform with the given dataset would be to map the top 100 starting/ending locations by weekday as well as to map the top 100 starting/ending locations by gender.
