@@ -2,6 +2,7 @@
 Using Tableau to build visualizations to tell the story of data.
 
 ## Overview:
+Provide a Tableau story to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 Click here [NYC Citibike Analysis](https://public.tableau.com/views/NYCCitibikeAnalysis_16630376654200/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) to reach the tableau story for this analysis.
 
@@ -28,6 +29,6 @@ The "User Trips by Gender by Weekday" heatmap reiterates the percentage of "male
 
 
 ## Summary:
-The subscribers appear to be disproportionately male and this usage appears to be primarily during work commute.
+The subscribers appear to be disproportionately male and their primary usage appears to be during the commute to and from work.
 
 Two additional visualizations that I would perform with the given dataset would be to map the top 100 starting/ending locations by weekday as well as to map the top 100 starting/ending locations by gender.
